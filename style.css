@@ -44,6 +44,8 @@ figcaption{
 }
 .hero{
     display: inline-flex;
+    background-color:rgb(11, 11, 48);
+    color: white;
 }
 .first-section{
     width: 50%;
@@ -100,7 +102,7 @@ figcaption{
     padding:150px 250px;
     background-color: aliceblue;
 }
-.third-row q{
+.third-row blockquote{
     font-style: italic;
     font-size: 30px;
     font-weight: 300;
