@@ -82,7 +82,7 @@ figcaption{
 }
 .second-row {
     padding: 0px 15px;
-    margin: 0px 30px;
+    margin: 0px 30px 60px 30px;
     display: flex;
     flex-direction: row;
     flex-wrap: no-wrap;
